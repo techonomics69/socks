@@ -36,7 +36,7 @@ const Layout = ({ children, site }) => (
       </div>
       <div className="Wrap" >
         <div className="Footer">
-          DentalTech 2020 <a href="https://dentaltech.co/">Gatsby</a>,
+          DentalTech 2020 <a href="https://dentaltech.co/"></a>,
         </div>
       </div>
     </div>
